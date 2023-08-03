@@ -1,23 +1,13 @@
 # Dynamic Portfolio Website With AdminPanel
-  Website Portfolio dengan Admin Panel
-
-# Live 
-See [Video]()
+Website Portfolio dengan Admin Panel
 
 # Language 
-html css, js, 
+html css, js, PHP , MYsql 
 
-PHP , MYsql 
-
- 
- 
- # Database
- daatbase named : "iportfolio"  
- 
- 
- # Admin 
- 
+# Database
+database named : "WebPortfolio"  
+  
+# Admin 
 admin: admin@admin.com
-
 Password: admin123
-# Website-Portfolio-With-Admin-Panel
+
